@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "354106173525",
+    "project_id": "my-counter-123-debc0",
+    "storage_bucket": "my-counter-123-debc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354106173525:android:cf0431cb1be51aab4eccdc",
+        "android_client_info": {
+          "package_name": "com.profeti.codemagicsample.myCounter123.my_counter_123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354106173525-afhcc284v0h17eu687u5uii0cgmfbmsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.profeti.codemagicsample.myCounter123.my_counter_123",
+            "certificate_hash": "fce428c5abbafa5003a7969bd70863393e166dd9"
+          }
+        },
+        {
+          "client_id": "354106173525-4rththv3uaav0rplr81rl46b96b942ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6H3scUMvQeyow2jiKCvx1YgJGpsh242A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354106173525-4rththv3uaav0rplr81rl46b96b942ki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354106173525-d9caa2mv7tu0ettisobhaspahuae34n8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.profeti.codemagicsample.myCounter123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
